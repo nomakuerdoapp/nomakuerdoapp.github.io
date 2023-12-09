@@ -92884,9 +92884,9 @@ A.P6.prototype={
 G(a){var s,r,q,p=null,o=A.bF("NoMakuerdo",p,p,p,p,p,p),n=t.p
 o=A.y8(A.a([A.nb(p,A.pH(B.UP,B.n,p,35),A.aYL(),p,p)],n),$.xJ(),p,p,B.UX,o)
 s=$.xK()
-r=A.lh(p,A.cL(p,A.ayc(A.el(A.a([B.Vd,A.ex(A.bF("Agenda",p,p,p,A.cX(p,p,$.a2m(),p,p,p,p,p,p,p,p,40,p,p,B.ab,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p)],n),B.aa,B.hJ,B.ah),p,15,B.p,B.N),B.v,p,p,p,p,200,p,p,p,p,200),B.af,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.acz(a),p,p,p,p,p,p)
+r=A.lh(p,A.cL(p,A.ayc(A.el(A.a([B.Vd,A.ex(A.bF("Agenda",p,p,p,A.cX(p,p,$.a2m(),p,p,p,p,p,p,p,p,40,p,p,B.ab,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p)],n),B.aa,B.hJ,B.ah),p,15,B.p,B.N),B.v,p,p,p,p,180,p,p,p,p,180),B.af,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.acz(a),p,p,p,p,p,p)
 q=$.xJ()
-return A.vn(o,A.cL(p,A.el(A.a([B.a3q,new A.bJ(B.Uf,A.fo(A.a([r,A.pM(!1,p,!0,A.cL(p,A.ayc(A.el(A.a([A.aEx(q,100,B.u5),A.ex(A.bF("Notas",p,p,p,A.cX(p,p,q,p,p,p,p,p,p,p,p,30,p,p,B.ab,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p)],n),B.aa,B.hJ,B.ah),p,15,p,p),B.v,p,p,p,p,200,p,p,p,p,200),p,!0,p,p,p,p,p,p,p,p,p,p,new A.acA(),p,p,p,p)],n),B.aa,B.od,B.ah),p)],n),B.aa,B.a6,B.ah),B.v,p,p,s,p,p,p,p,p,p,p),p)}}
+return A.vn(o,A.cL(p,A.el(A.a([B.a3q,new A.bJ(B.Uf,A.fo(A.a([r,A.pM(!1,p,!0,A.cL(p,A.ayc(A.el(A.a([A.aEx(q,100,B.u5),A.ex(A.bF("Notas",p,p,p,A.cX(p,p,q,p,p,p,p,p,p,p,p,30,p,p,B.ab,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p)],n),B.aa,B.hJ,B.ah),p,15,p,p),B.v,p,p,p,p,180,p,p,p,p,180),p,!0,p,p,p,p,p,p,p,p,p,p,new A.acA(),p,p,p,p)],n),B.aa,B.od,B.ah),p)],n),B.aa,B.a6,B.ah),B.v,p,p,s,p,p,p,p,p,p,p),p)}}
 A.acz.prototype={
 $0(){A.aFk(this.a,"tareas",t.X)},
 $S:0}
